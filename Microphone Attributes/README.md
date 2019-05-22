@@ -29,7 +29,7 @@ This range is associated with very high pitched sounds. The bells or the triangl
 Unless you have significant hearing loss, your hearing probably cuts off somewhere in this spectrum. Very few people can hear up to 20kHz (mainly just children). If you're testing your hearing range, and hear sounds fading in this spectrum, don't turn up the volume. Accept your limitations.
 
 ### FREQUENCY RESPONSE
-Ok, so you can record sounds over the entire audio spectrum. Now, how do they sound with respect to each other? Do bass sounds recorded at the same volume (or Sound Pressure Level) as treble sounds look to have the same level as each other on the decibel scale? What does that even mean? Welcome to frequency response. 
+Ok, so you can record sounds over the entire audio spectrum. Now, how do they sound with respect to each other? Do bass sounds recorded at the same volume (or Sound Pressure Level) as treble sounds sound like they're the same volume when played back? What does that even mean? Welcome to frequency response. 
 
 Lets define something first.
 
