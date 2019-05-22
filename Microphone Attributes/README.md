@@ -36,7 +36,7 @@ Lets define something first.
 SPL or 'Sound Pressure Level' is the root-mean-square pressure of the sound wave compared to (divided by) the ambient room pressure, and then translated into the decibel scale. 
 `SPL = 20*log(Prms/Po)`
 
-Ideally, if a microphone is used to record a tone sweeping linearly from 20Hz-20kHz at 1 Sound Pressure Level will have the same value (pressure in dB) across the entire frequency spectrum. This is a 'flat' frequency response. A frequency response that has a portion, say 10kHz-15kHz which has a higher gain (ie. part of the response is higher than the rest), will create the effect of an increased volume for only that part of the spectrum. In that case, you might hear bells and high string instruments really well. Since our goal is to accurately represent the true sound, this result is undesirable.
+Ideally, if a microphone is used to record a tone sweeping linearly from 20Hz-20kHz at 1 Sound Pressure Level, it will have the same value (pressure in dB) across the entire frequency spectrum. This is a 'flat' frequency response. A frequency response that has a portion, say 10kHz-15kHz which has a higher gain (ie. part of the response is higher than the rest), will create the effect of an increased volume for only that part of the spectrum. In that case, you might hear bells and high string instruments really well. Since our goal is to accurately represent the true sound, this result is undesirable.
 
 #### Takeaway: 
 When looking for a microphone, try to find one with a flat frequency response. (This can be found in the datasheet)
