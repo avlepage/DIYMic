@@ -46,8 +46,7 @@ If you cover your left ear, in an ideal situation, you will no longer hear sound
 
 #### Omnidirectional
 ![Polar Pattern: Omnidirectional](https://github.com/avlepage/DIYMic/blob/master/Microphone%20Attributes/Omni%20Polar%20Pattern.png "Omni Polar Pattern.png")
-
-
+An omnidirectional microphone will pick up sounds equally from all directions. 
 
 
 
