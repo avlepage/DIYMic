@@ -41,8 +41,15 @@ Ideally, if a microphone is used to record a tone sweeping linearly from 20Hz-20
 #### Takeaway: 
 When looking for a microphone, try to find one with a flat frequency response. (This can be found in the datasheet)
 
-
 ### DIRECTIVITY PATTERNS
+If you cover your left ear, in an ideal situation, you will no longer hear sound stimulae from the left-hand side. In a similar manner, some microphones only take input from certain directions. The graph of how strongly a signal at a certain location relative to the microphone will be picked up is called a directivity pattern. Here are a few common ones:
+
+#### Omnidirectional
+![Polar Pattern: Omnidirectional](Omni\ Polar\ Pattern.png)
+
+
+
+
 
 ### SENSITIVITY
 
