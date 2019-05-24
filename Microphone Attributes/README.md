@@ -46,14 +46,17 @@ If you cover your left ear, in an ideal situation, you will no longer hear sound
 
 #### Omnidirectional
 ![Polar Pattern: Omnidirectional](https://github.com/avlepage/DIYMic/blob/master/Microphone%20Attributes/Omni%20Polar%20Pattern.png "Omni Polar Pattern.png")
+
 A microphone with an omnidirectional polar pattern will pick up sounds equally from all directions. In general, these microphones have the most accrate frequency response. They can, however, produce a lot of feedback if the recorded sound can be picked up by the microphone (if it's being played back in the same room). You won't have to wory about this if you play back through headphones, or play back once the recording is finished. To avoid noise, recording with an omnidirectional microphone should be done in a quiet environment. 
 
 #### Cardioid 
 ![Polar Pattern: Supercardioid](https://github.com/avlepage/DIYMic/blob/master/Microphone%20Attributes/Cardioid%20Polar%20Pattern.png "Cardioid Polar Pattern.png")
+
 Microphones with cardioid polar patterns are usually used on a stage where the amplification of the singer (front) is desirable, and the amplificaiton of the crowd (back) is undesirable. They work in an environment where there is a lot of noise coming from one direction. There are some problematic effects of the cardioid pattern. It results in something called the 'Proximity Effect' when recording is done too close to the microphone, which causes a boost to bass sounds below 200Hz. It is important to be aware of and avoid this when using these microphones. 
 
 #### Supercardioid
 ![Polar Pattern: Supercardioid](https://github.com/avlepage/DIYMic/blob/master/Microphone%20Attributes/Supercardioid%20Polar.png "Supercardioid Polar Pattern.png")
+
 Supercardioid microphones are used to pick up a single source in a noisy environment. They have a narrower polar pattern than cardioid microphones and have a small section of pickup at the rear of the microphone. Fix the position of this microphone and don't move it while recording!
 
 ### SENSITIVITY
