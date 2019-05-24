@@ -46,10 +46,20 @@ If you cover your left ear, in an ideal situation, you will no longer hear sound
 
 #### Omnidirectional
 ![Polar Pattern: Omnidirectional](https://github.com/avlepage/DIYMic/blob/master/Microphone%20Attributes/Omni%20Polar%20Pattern.png "Omni Polar Pattern.png")
-An omnidirectional microphone will pick up sounds equally from all directions. 
+A microphone with an omnidirectional polar pattern will pick up sounds equally from all directions. In general, these microphones have the most accrate frequency response. They can, however, produce a lot of feedback if the recorded sound can be picked up by the microphone (if it's being played back in the same room). You won't have to wory about this if you play back through headphones, or play back once the recording is finished. To avoid noise, recording with an omnidirectional microphone should be done in a quiet environment. 
 
+#### Cardioid 
+![Polar Pattern: Supercardioid](https://github.com/avlepage/DIYMic/blob/master/Microphone%20Attributes/Cardioid%20Polar%20Pattern.png "Cardioid Polar Pattern.png")
+Microphones with cardioid polar patterns are usually used on a stage where the amplification of the singer (front) is desirable, and the amplificaiton of the crowd (back) is undesirable. They work in an environment where there is a lot of noise coming from one direction. There are some problematic effects of the cardioid pattern. It results in something called the 'Proximity Effect' when recording is done too close to the microphone, which causes a boost to bass sounds below 200Hz. It is important to be aware of and avoid this when using these microphones. 
 
+#### Supercardioid
+![Polar Pattern: Supercardioid](https://github.com/avlepage/DIYMic/blob/master/Microphone%20Attributes/Supercardioid%20Polar.png "Supercardioid Polar Pattern.png")
+Supercardioid microphones are used to pick up a single source in a noisy environment. They have a narrower polar pattern than cardioid microphones and have a small section of pickup at the rear of the microphone. Fix the position of this microphone and don't move it while recording!
 
 ### SENSITIVITY
+The sensitivity of a microphone determines the volume range that a microphone will pick up. You probably want a microphone that can capture high volume sounds without distorting them and low-volume sounds without attenuating them so much that they can't be heard. In general, the minimum sensitivity range that should be used to capture the human voice is 15dB SPL, and the minimum sensitivity of a microphone should be -60 dB so that voices won't be too quiet.
+
 
 ### NOISE FLOOR
+Every microphone has a noise floor, and it is likely that there'll be other sources of noise present in a room where sound is being recorded. When recording, the ratio of recorded sound to noise should be at minimum 15dB for recording voices. This can be measured by recording the ambient noise in a room, and then recording speech in the same room, and then comparing the singal strengths on the decibel scale.
+
